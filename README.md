@@ -13,6 +13,20 @@ __U1__ *(ME6215C33M5G)* and supporting components on the YD-RP2040 are replaced 
 
 ![YD-RP2040-RP2040-vcc-gnd-studio-Micropython-CircuitPython-Arduino-Raspberry-Pi-Pico-PLUS-MCU-Board-microcontroller](https://github.com/up-n-atom/sfp-snoop/assets/234549/8e12fa5b-a43b-4a43-b1c5-90607dd3d33b)
 
+## Pinout
+
+| YD-RP2040 | [SFP (INF-8074i)](https://members.snia.org/document/dl/26184) | Transceivers |
+| --        | --              | -- |
+| 7 (GP5 - *USART1 RX*)   | 2 | Huawei SmartAX MA5671A, Alcatel-Lucent G-010S-P, BFW WAS-110 UART TX |
+| 12 (GP9 - *USART1 RX*)  | 3 | Nokia G-010S-A UART TX |
+| 9 (GP6 - *I2C1 SDA*)    | 4 | |
+| 10 (GP7 - *I2C1 SCL*)   | 5 | |
+| 11 (GP8 - *USART1 TX*)  | 6 | Nokia G-010S-A UART RX |
+| 6 (GP4 - *USART1 TX*)   | 7 | Huawei SmartAX MA5671A, Alcatel-Lucent G-010S-P, BFW WAS-110 UART RX |
+| 5 (GP3)                 | 8 | |
+| 29 (GP22)               | 9 | |
+
+
 ## Bill of Materials
 
 | Ref.            | Value  | [LCSC](https://www.lcsc.com/) | Qty. |
