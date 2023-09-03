@@ -33,7 +33,7 @@ __U1__ *(ME6215C33M5G)* and supporting components on the YD-RP2040 are replaced 
 | --              | --     | --                            | --:  |
 | C1, C2          | 4.7uF  | [C1872](https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL31B475KAHNNNE_C1872.html) | 2    |
 | C3, C6, C9, C11 | 0.1uF  | [C282519](https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_CCTC-TCC0603X7R104K500CT_C282519.html) | 4    |
-| C4              | 15uF   | [C542620](https://www.lcsc.com/product-detail/Tantalum-Capacitors_PANASONIC-6TPE150MAPB_C542620.html) | 1    |
+| C4              | 150uF   | [C542620](https://www.lcsc.com/product-detail/Tantalum-Capacitors_PANASONIC-6TPE150MAPB_C542620.html) | 1    |
 | C5, C8          | 1uF    | [C59302](https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B105K250NT_C59302.html) | 2    |
 | C7, C10         | 0.01uF | [C525264](https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_PSA-Prosperity-Dielectrics-FN18X103K500PSG_C525264.html) | 2    |
 | F1              | 2A     | [C261954](https://www.lcsc.com/product-detail/Resettable-Fuses_TLC-Electronic-TLC-NSMD100_C261954.html) | 1    |
