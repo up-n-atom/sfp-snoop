@@ -26,6 +26,8 @@ __U1__ *(ME6215C33M5G)* and supporting components on the YD-RP2040 are replaced 
 | 5 (GP3)                 | 8 | |
 | 29 (GP22)               | 9 | |
 
+* Short JP1
+* Short R10 jumper to pin 37 (GP23) for user button power switch, or populate R10 with a 10KOhm 0603 resistor to access RGB LED (GP23)
 
 ## Bill of Materials
 
@@ -39,7 +41,7 @@ __U1__ *(ME6215C33M5G)* and supporting components on the YD-RP2040 are replaced 
 | F1              | 2A     | [C261954](https://www.lcsc.com/product-detail/Resettable-Fuses_TLC-Electronic-TLC-NSMD100_C261954.html) | 1    |
 | J1              | SFP+   | [C210158](https://www.lcsc.com/product-detail/Card-Edge-Connectors_TE-Connectivity-1367073-1_C210158.html) | 1    |
 | J1 (Optional)   | SFP+ Cage   | [C7429382](https://www.lcsc.com/product-detail/Connector-Shells_HCTL-HC-SFP-03L_C7429382.html) | 1    |
-| R1-R9           | 10KOhm | [C25804](https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.html) | 9 |
+| R1-R10           | 10KOhm | [C25804](https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.html) | 9 |
 | U1              | AIC1221-33GY3TR | [C211622](https://www.lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_AIC-Analog-Integrations-AIC1221-33GY3TR_C211622.html) | 1 |
 | U2              | AP2191WG-7 | [C141321](https://www.lcsc.com/product-detail/Power-Distribution-Switches_Diodes-Incorporated-AP2191WG-7_C141321.html) | 1 |
 
