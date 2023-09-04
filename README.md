@@ -31,6 +31,8 @@ __U1__ *(ME6215C33M5G)* and supporting components on the YD-RP2040 are replaced 
 
 ## Bill of Materials
 
+Total cost for single unit, incl. YD-RP2040 is around $5 USD.
+
 | Ref.            | Value  | [LCSC](https://www.lcsc.com/) | Qty. |
 | --              | --     | --                            | --:  |
 | C1, C2          | 4.7uF  | [C1872](https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL31B475KAHNNNE_C1872.html) | 2    |
