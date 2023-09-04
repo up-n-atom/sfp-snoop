@@ -2359,7 +2359,7 @@
     (pad "1" smd roundrect (at -0.825 0 90) (size 0.8 0.95) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 32 "+3.3V") (pintype "passive") (tstamp 5ecadcf8-75cb-4be9-9033-106de65b0827))
     (pad "2" smd custom (at 0.825 0 90) (size 0.8 0.95) (layers "B.Cu" "B.Paste" "B.Mask")
-      (net 17 "/GPIO23") (pintype "passive")
+      (net 17 "/GPIO23") (pintype "passive") (thermal_bridge_angle 45)
       (options (clearance outline) (anchor rect))
       (primitives
         (gr_poly
@@ -2373,7 +2373,7 @@
           (width 0) (fill yes))
       ) (tstamp 2e162d02-566f-465c-962f-5cc9f3b41e12))
     (pad "2" smd custom (at 0.825 1.25 270) (size 0.1 0.1) (layers "B.Cu" "B.Paste" "B.Mask")
-      (net 17 "/GPIO23") (pintype "passive")
+      (net 17 "/GPIO23") (pintype "passive") (thermal_bridge_angle 45)
       (options (clearance outline) (anchor rect))
       (primitives
         (gr_poly
@@ -7076,6 +7076,7 @@
     )
   )
   (zone (net 0) (net_name "") (layer "B.Cu") (tstamp 1af6d98e-6a62-4152-9c38-b316bf6ced11) (name "$teardrop_padvia$") (hatch edge 0.5)
+    (attr (teardrop (type padvia)))
     (connect_pads yes (clearance 0))
     (min_thickness 0.0254) (filled_areas_thickness no)
     (keepout (tracks allowed) (vias allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
