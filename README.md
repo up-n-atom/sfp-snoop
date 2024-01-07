@@ -38,8 +38,8 @@ Total cost for single unit, incl. YD-RP2040 is around $5 USD.
 | C1, C2          | 4.7uF  | [C1872](https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL31B475KAHNNNE_C1872.html) | 2    |
 | C3, C6, C9, C11 | 0.1uF  | [C282519](https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_CCTC-TCC0603X7R104K500CT_C282519.html) | 4    |
 | C4              | 150uF   | [C542620](https://www.lcsc.com/product-detail/Tantalum-Capacitors_PANASONIC-6TPE150MAPB_C542620.html) | 1    |
-| C5, C8          | 1uF    | [C59302](https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B105K250NT_C59302.html) | 2    |
-| C7, C10         | 0.01uF | [C525264](https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_PSA-Prosperity-Dielectrics-FN18X103K500PSG_C525264.html) | 2    |
+| C7, C10         | 1uF    | [C59302](https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B105K250NT_C59302.html) | 2    |
+| C5, C8         | 0.01uF | [C525264](https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_PSA-Prosperity-Dielectrics-FN18X103K500PSG_C525264.html) | 2    |
 | F1              | 2A     | [C261954](https://www.lcsc.com/product-detail/Resettable-Fuses_TLC-Electronic-TLC-NSMD100_C261954.html) | 1    |
 | J1              | SFP+   | [C210158](https://www.lcsc.com/product-detail/Card-Edge-Connectors_TE-Connectivity-1367073-1_C210158.html) | 1    |
 | J1 (Optional)   | SFP+ Cage   | [C7429382](https://www.lcsc.com/product-detail/Connector-Shells_HCTL-HC-SFP-03L_C7429382.html) | 1    |
@@ -50,5 +50,4 @@ Total cost for single unit, incl. YD-RP2040 is around $5 USD.
 
 | Ref.             | Value  | [AliExpress](https://www.aliexpress.com/) | Qty. |
 | --               | --     | --                                        | --:  |
-| P1, P2 *YD-RP2040* | Male   | [21mm height, 2.54mm pitch, 40-pin Male Header](https://www.aliexpress.com/item/1005001809920855.html) | 1 |
 | J2, J3 *sfp-snoop* | Female | [2.54mm pitch, 20-pin Female Header](https://www.aliexpress.com/item/4000386969080.html) | 1 |
